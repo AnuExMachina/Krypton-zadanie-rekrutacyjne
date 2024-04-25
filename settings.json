@@ -1,0 +1,12 @@
+{
+    "sleep_time_a": 1,
+    "sleep_time_b": 1,
+    "host": "localhost",
+    "port": 8000,
+    "ip_a": "localhost",
+    "port_a": 8001,
+    "ip_b": "localhost",
+    "port_b": 8002,
+    "ip_c": "localhost",
+    "port_c": 8003
+}
